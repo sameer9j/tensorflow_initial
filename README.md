@@ -3,4 +3,5 @@
 1. Logistic Regression: 
 
 Dataset: MNIST
+
 Tools Used: TensorFlow
