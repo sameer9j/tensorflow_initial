@@ -1,4 +1,4 @@
-## Implementating various ML Techniques using TensorFlow
+## TensorFlow based implementations
 
 1. Logistic Regression: 
 
