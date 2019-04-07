@@ -6,7 +6,7 @@ Filename: Logistic_Tensorflow.py
 
 Dataset: MNIST
 
-2. XOR Implementation in Tensorflow:
+2. XOR Implementation:
 
 Filename: TensorFlow_XOR.py
 
